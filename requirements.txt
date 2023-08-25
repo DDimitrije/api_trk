@@ -1,0 +1,12 @@
+pip
+requests
+Flask-JWT-Extended
+Flask-Smorest
+Flask-SQLAlchemy
+passlib
+marshmallow
+python-dotenv
+gunicorn
+Flask-Migrate
+gunicorn
+psycopg2==2.9.1
